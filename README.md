@@ -1,2 +1,2 @@
 # Java-Features
-daily java practice
+daily java practice and learning concept
